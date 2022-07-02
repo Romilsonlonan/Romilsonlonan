@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/romilson-luis-a5a312168/"><i>Romilson Luis</i></a> 😃️</h1>
-  <p align="center">Estudo Analise e Desenvolvimento de Sistemas na Universidade Anhanguera 🎓 e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>Linkedin</i></a><span> 👉🏽️ </span>
+  <p align="center">Estudo Analise e Desenvolvimento de Sistemas na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://www.linkedin.com/in/romilson-luis-a5a312168/</span>
   <div align="center">
   <a align="rigth">
     <img width="20%" border-radius="50% align="center" valign="middle" src="https://media-exp2.licdn.com/dms/image/D5635AQE_ty163jP8bA/profile-framedphoto-shrink_200_200/0/1639259774782?e=1657371600&v=beta&t=sjzhqXOJenMHAM3BKFwAoT4FKsGQH5QpdSnruo-m-SA" target="_blank" />
