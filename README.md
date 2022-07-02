@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá!Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/romilson-luis-a5a312168/"><i>Romilson Luis</i></a> 😃️</h1>
+  <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/romilson-luis-a5a312168/"><i>Romilson Luis</i></a> 😃️</h1>
   <p align="center">Estudo Analise e Desenvolvimento de Sistemas na Universidade Anhanguera 🎓 e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>Linkedin</i></a><span> 👉🏽️ </span>
   <div align="center">
   <a align="rigth">
@@ -27,7 +27,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
