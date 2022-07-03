@@ -1,13 +1,13 @@
 <div>
   <h1 align="center">Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-luis-a5a312168/"><i>Romilson Luis</i></a> 😃️</h1>
-  <p align="center">Estudo Analise e Desenvolvimento de Sistemas na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://www.linkedin.com/in/romilson-luis-a5a312168/</span>
+  <p align="center" font-size="50px">Estudo Analise e Desenvolvimento de Sistemas na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://www.linkedin.com/in/romilson-luis-a5a312168/</span>
   <div align="center">
   <a align="rigth">
     <img width="20%" align="center" valign="middle" src="https://media-exp2.licdn.com/dms/image/D5635AQE_ty163jP8bA/profile-framedphoto-shrink_200_200/0/1639259774782?e=1657371600&v=beta&t=sjzhqXOJenMHAM3BKFwAoT4FKsGQH5QpdSnruo-m-SA" target="_blank" />
   <br>  
   </a>
   <br>
-  <p align="center">Vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <p align="center" font-size="50px">Vem codar comigo, tua contribuição será muito bem vinda! 😉️</h2>
   <p align="center" background-color="yellow"><i><b>"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."</b></i></p>
 </div>
 <!-- <h1 align="center"> 
