@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/romilson-luis-a5a312168/"><i>Romilson Luis</i></a> 😃️</h1>
+  <h1 align="center">Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-luis-a5a312168/"><i>Romilson Luis</i></a> 😃️</h1>
   <p align="center">Estudo Analise e Desenvolvimento de Sistemas na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://www.linkedin.com/in/romilson-luis-a5a312168/</span>
   <div align="center">
   <a align="rigth">
@@ -8,7 +8,7 @@
   </a>
   <br>
   <p align="center">Vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
-  <p align="center"><i>"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."</i></p>
+  <p align="center" background-color="yellow"><i><b>"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."</b></i></p>
 </div>
 <!-- <h1 align="center"> 
   Trybe
