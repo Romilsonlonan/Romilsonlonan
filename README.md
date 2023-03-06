@@ -1,9 +1,9 @@
 <div>
   <h1 align="center">Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-luis-a5a312168/"><i>Romilson Luis</i></a> 😃️</h1>
-  <p align="center" font-size="50px">Estudo Analise e Desenvolvimento de Sistemas na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://www.linkedin.com/in/romilson-luis-a5a312168/</span>
+  <p align="center" font-size="50px">Faço Pós Graduação em Análise de Dados na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://www.linkedin.com/in/romilson-luis-a5a312168/</span>
   <div align="center">
   <a align="rigth">
-    <img width="20%" align="center" valign="middle" src="https://media-exp2.licdn.com/dms/image/D5635AQE_ty163jP8bA/profile-framedphoto-shrink_200_200/0/1639259774782?e=1657371600&v=beta&t=sjzhqXOJenMHAM3BKFwAoT4FKsGQH5QpdSnruo-m-SA](https://pps.whatsapp.net/v/t61.24694-24/291860784_1183670199088562_6653321249009832747_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdQCgDP6wvveqlni-0XtfmCU2BzepfPIZDeQoVj0Ye4yrw&oe=641348F3)](https://media.licdn.com/dms/image/D5635AQE_ty163jP8bA/profile-framedphoto-shrink_200_200/0/1639259774782?e=1678741200&v=beta&t=Dd1tUzsQE0CzCGgN8p2GQJx5qa1j1h8CHpI6MBsoOYk" target="_blank" />
+    <img width="20%" align="center" valign="middle" src="https://media-exp2.licdn.com/dms/image/D5635AQE_ty163jP8bA/profile-framedphoto-shrink_200_200/0/1639259774782?e=1657371600&v=beta&t=sjzhqXOJenMHAM3BKFwAoT4FKsGQH5QpdSnruo-m-SA](https://pps.whatsapp.net/v/t61.24694-24/291860784_1183670199088562_6653321249009832747_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdQCgDP6wvveqlni-0XtfmCU2BzepfPIZDeQoVj0Ye4yrw&oe=641348F3)](https://media.licdn.com/dms/image/D5635AQE_ty163jP8bA/profile-framedphoto-shrink_200_200/0/1639259774782?e=1678741200&v=beta&t=Dd1tUzsQE0CzCGgN8p2GQJx5qa1j1h8CHpI6MBsoOYk" />
   <br>  
   </a>
   <br>
