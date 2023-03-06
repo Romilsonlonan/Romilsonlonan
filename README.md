@@ -3,7 +3,7 @@
   <p align="center" font-size="50px">Faço Pós Graduação em Análise de Dados na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://www.linkedin.com/in/romilson-luis-a5a312168/</span>
   <div align="center">
   <a align="rigth">
-    <img width="20%" align="center" border-radius="50%" border="5px solid blue" src="https://media.licdn.com/dms/image/D5635AQE_ty163jP8bA/profile-framedphoto-shrink_200_200/0/1639259774782?e=1678741200&v=beta&t=Dd1tUzsQE0CzCGgN8p2GQJx5qa1j1h8CHpI6MBsoOYk", target="_blank"/> 
+    <img width="20%" align="center" border-radius="50%" border="5px solid blue" src="https://media.licdn.com/dms/image/D5635AQE_ty163jP8bA/profile-framedphoto-shrink_200_200/0/1639259774782?e=1678741200&v=beta&t=Dd1tUzsQE0CzCGgN8p2GQJx5qa1j1h8CHpI6MBsoOYk" target="_blank"/> 
   <br>
   </a>
   <br>
