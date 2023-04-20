@@ -3,7 +3,7 @@
   <p align="center" font-size="50px">Faço Pós Graduação em Análise de Dados na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://https://www.linkedin.com/in/romilson-analista-de-dados/</span>
   <div align="center">
   <a align="rigth">
-    <img width="20%" align="center" border-radius="50px" border="5px solid blue" src="https://scontent.fcgh24-1.fna.fbcdn.net/v/t39.30808-1/294797265_5394954763893902_4371724445809594489_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=fxRua6IqmgYAX9_dZAm&_nc_ht=scontent.fcgh24-1.fna&oh=00_AfAuRpyKpRy0wYIYryaV-kNzYTSaPL1oQrgay_5kxpkG9A&oe=64468276" target="_blank"/> 
+    <img width="20%" align="center" border-radius="50px 50px 20px 0px" border="5px solid blue" src="https://scontent.fcgh24-1.fna.fbcdn.net/v/t39.30808-1/294797265_5394954763893902_4371724445809594489_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=fxRua6IqmgYAX9_dZAm&_nc_ht=scontent.fcgh24-1.fna&oh=00_AfAuRpyKpRy0wYIYryaV-kNzYTSaPL1oQrgay_5kxpkG9A&oe=64468276" target="_blank"/> 
   <br>
   </a>
   <br>
