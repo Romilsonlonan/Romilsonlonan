@@ -2,7 +2,7 @@
   <h1>Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Romilson Luis</a> 😃️</h1>
   <p><i>Faço Pós Graduação em Análise de Dados na Universidade Anhanguera</i> 🎓 e compartilho meu aprendizado no <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Linkedin</a> <span>👉🏽️ <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">https://www.linkedin.com/in/romilson-analista-de-dados/</a></span></p>
   <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">
-    <img width="20%" align="center" style="border-radius: 50%; border: 5px solid blue;" src="https://scontent.fcgh24-1.fna.fbcdn.net/v/t39.30808-1/294797265_5394954763893902_4371724445809594489_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=17&_nc_sid=dbb9e7&_nc_ohc=fxRua6IqmgYAX9_dZAm&_nc_ht=scontent.fcgh24-1.fna&oh=00_AfAuRpyKpRy0wYIYryaVkNzYTSaPL1oQrgay_5kxpkG9A&oe=64468276" target="_blank"
+    <img width="20%" align="center" style="border-radius: 50%; border: 5px solid blue;" src="[https://scontent.fcgh24-1.fna.fbcdn.net/v/t39.30808-1/294797265_5394954763893902_4371724445809594489_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=17&_nc_sid=dbb9e7&_nc_ohc=fxRua6IqmgYAX9_dZAm&_nc_ht=scontent.fcgh24-1.fna&oh=00_AfAuRpyKpRy0wYIYryaVkNzYTSaPL1oQrgay_5kxpkG9A&oe=64468276" target="_blank](https://pps.whatsapp.net/v/t61.24694-24/291860784_1183670199088562_6653321249009832747_n.jpg?)"
       />
   </a>
   <br>
