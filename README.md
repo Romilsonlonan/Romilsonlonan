@@ -1,15 +1,14 @@
-<div>
-  <h1 align="center">Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-analista-de-dados/"><i>Romilson Luis</i></a> 😃️</h1>
-  <p align="center" font-size="50px">Faço Pós Graduação em Análise de Dados na Universidade Anhanguera 🎓 e compartilho meu aprendizado no <a><i>Linkedin</i></a><span> 👉🏽️ https://https://www.linkedin.com/in/romilson-analista-de-dados/</span>
-  <div align="center">
-  <a align="rigth">
-    <img width="20%" align="center" border-radius="50" border="5px solid blue" src="https://scontent.fcgh24-1.fna.fbcdn.net/v/t39.30808-1/294797265_5394954763893902_4371724445809594489_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=fxRua6IqmgYAX9_dZAm&_nc_ht=scontent.fcgh24-1.fna&oh=00_AfAuRpyKpRy0wYIYryaV-kNzYTSaPL1oQrgay_5kxpkG9A&oe=64468276" target="_blank"/> 
-  <br>
+<div align="center">
+  <h1>Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Romilson Luis</a> 😃️</h1>
+  <p><i>Faço Pós Graduação em Análise de Dados na Universidade Anhanguera</i> 🎓 e compartilho meu aprendizado no <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Linkedin</a> <span>👉🏽️ <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">https://www.linkedin.com/in/romilson-analista-de-dados/</a></span></p>
+  <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">
+    <img width="20%" align="center" style="border-radius: 50%; border: 5px solid blue;" src="https://scontent.fcgh24-1.fna.fbcdn.net/v/t39.30808-1/294797265_5394954763893902_4371724445809594489_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=fxRua6IqmgYAX9_dZAm&_nc_ht=scontent.fcgh24-1.fna&oh=00_AfAuRpyKpRy0wYIYryaV-kNzYTSaPL1oQrgay_5kxpkG9A&oe=64468276" target="_blank"/>
   </a>
   <br>
-  <p align="center" font-size="50px">Vem codar comigo, tua contribuição será muito bem vinda! 😉️</h2>
-  <p align="center" background-color="yellow"><i><b>"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."</b></i></p>
+  <h2>Vem codar comigo, tua contribuição será muito bem-vinda! 😉️</h2>
+  <p style="background-color: yellow;"><i><b>"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema."</b></i></p>
 </div>
+
 <div align="center">
   <a href="https://github.com/Romilsonlonan">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Romilsonlonan&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
