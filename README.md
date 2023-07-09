@@ -1,8 +1,7 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/romilson-analista-de-dados/)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](romilson0988/)
-
 <div align="center">
+  <h1>
+    <a href="https://media.licdn.com/dms/image/D4D16AQEFZAtWRmpKCA/profile-displaybackgroundimage-shrink_350_1400/0/1684670452924e=1694649600&v=beta&t=Fk-S90ZDROoxWdwSsA_6m9_slXr3fuxPFVexwYqB4qA">
+    </a>
   <h1>Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Romilson Luis</a> 😃️</h1>
   <p><i>Faço a segunda Pós-Graduação em Engenharia de Dados na Universidade Anhanguera</i> 🎓 e compartilho meu aprendizado no <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Linkedin</a> <span>👉🏽️ <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">https://www.linkedin.com/in/romilson-analista-de-dados/</a></span></p>
   <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">
@@ -39,7 +38,7 @@
   <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  --> 
   <a href="https://www.linkedin.com/in/romilson-analista-de-dados" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:romilson.romilsonlonan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="Romilson#0988" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/tDgnVcwp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
   
