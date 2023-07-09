@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Romilson Luis</a> 😃️</h1>
-  <p><i>Faço Pós Graduação em Análise de Dados na Universidade Anhanguera</i> 🎓 e compartilho meu aprendizado no <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Linkedin</a> <span>👉🏽️ <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">https://www.linkedin.com/in/romilson-analista-de-dados/</a></span></p>
+  <p><i>Faço a segunda Pós-Graduação em Engenharia de Dados na Universidade Anhanguera</i> 🎓 e compartilho meu aprendizado no <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Linkedin</a> <span>👉🏽️ <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">https://www.linkedin.com/in/romilson-analista-de-dados/</a></span></p>
   <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">
     <img width="20%" align="center" style="border-radius: 50%; border: 5px solid blue;" src="[https://scontent.fcgh24-1.fna.fbcdn.net/v/t39.30808-1/294797265_5394954763893902_4371724445809594489_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=17&_nc_sid=dbb9e7&_nc_ohc=fxRua6IqmgYAX9_dZAm&_nc_ht=scontent.fcgh24-1.fna&oh=00_AfAuRpyKpRy0wYIYryaVkNzYTSaPL1oQrgay_5kxpkG9A&oe=64468276" target="_blank](https://pps.whatsapp.net/v/t61.24694-24/291860784_1183670199088562_6653321249009832747_n.jpg?)](https://pps.whatsapp.net/v/t61.24694-24/291860784_1183670199088562_6653321249009832747_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTn7QJ52BSf4Rv5YzVRXHEYS9dbsX74wUcqLfowdh5Ygg&oe=64B29633)"
       />
@@ -39,7 +39,7 @@
   <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  --> 
   <a href="https://www.linkedin.com/in/romilson-analista-de-dados" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:romilson.romilsonlonan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="romilson0988" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="Romilson#0988" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
   
