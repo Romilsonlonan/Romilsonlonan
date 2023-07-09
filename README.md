@@ -1,7 +1,6 @@
 <div align="center">
   <h1>
-    <a href="https://media.licdn.com/dms/image/D4D16AQEFZAtWRmpKCA/profile-displaybackgroundimage-shrink_350_1400/0/1684670452924e=1694649600&v=beta&t=Fk-S90ZDROoxWdwSsA_6m9_slXr3fuxPFVexwYqB4qA">
-    </a>
+    <a href="https://media.licdn.com/dms/image/D4D16AQEFZAtWRmpKCA/profile-displaybackgroundimageshrink_350_1400/0/1684670452924e=1694649600&v=beta&t=Fk-S90ZDROoxWdwSsA_6m9_slXr3fuxPFVexwYqB4qA"></a>
   <h1>Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Romilson Luis</a> 😃️</h1>
   <p><i>Faço a segunda Pós-Graduação em Engenharia de Dados na Universidade Anhanguera</i> 🎓 e compartilho meu aprendizado no <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Linkedin</a> <span>👉🏽️ <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">https://www.linkedin.com/in/romilson-analista-de-dados/</a></span></p>
   <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">
