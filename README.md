@@ -1,5 +1,9 @@
 ![Likendin](https://media.licdn.com/dms/image/D4D16AQEFZAtWRmpKCA/profile-displaybackgroundimage-shrink_350_1400/0/1684670452924?e=1694649600&v=beta&t=Fk-S90ZDROoxWdwSsA_6m9_slXr3fuxPFVexwYqB4qA)
 
+<p align="center">
+  <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-passaros-voando-3.gif" alt="Pássaro Voando">
+</p>
+
 <div align="center">
   <h1>
     <a href="https://media.licdn.com/dms/image/D4D16AQEFZAtWRmpKCA/profile-displaybackgroundimageshrink_350_1400/0/1684670452924e=1694649600&v=beta&t=Fk-S90ZDROoxWdwSsA_6m9_slXr3fuxPFVexwYqB4qA"></a>
@@ -36,8 +40,8 @@
 <div align="center">
   <a href="https://www.instagram.com/romilsonlonan?igshid=NGExMml2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/romilson-analista-de-dados" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:romilson:romilsonlonan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/tDgnVcwp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
   
+
