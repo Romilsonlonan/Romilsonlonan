@@ -8,7 +8,7 @@
   <h1>
     <a href="https://media.licdn.com/dms/image/D4D16AQEFZAtWRmpKCA/profile-displaybackgroundimageshrink_350_1400/0/1684670452924e=1694649600&v=beta&t=Fk-S90ZDROoxWdwSsA_6m9_slXr3fuxPFVexwYqB4qA"></a>
   <h1>Olá, Tudo bem? Eu sou <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Romilson Luis</a> 😃️</h1>
-  <p><i>Faço a segunda Pós-Graduação em Engenharia de Dados na Universidade Anhanguera</i> 🎓 e compartilho meu aprendizado no <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Linkedin</a> <span>👉🏽️ <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">https://www.linkedin.com/in/romilson-analista-de-dados/</a></span></p>
+  <p><i>Faço Pós-Graduação em Engenharia de Dados na Universidade Anhanguera</i> 🎓 e compartilho meu aprendizado no <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">Linkedin</a> <span>👉🏽️ <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">https://www.linkedin.com/in/romilson-analista-de-dados/</a></span></p>
   <a href="https://www.linkedin.com/in/romilson-analista-de-dados/">
     <img width="20%" align="center" style="border-radius: 50%; border: 5px solid blue;" src="[https://scontent.fcgh24-1.fna.fbcdn.net/v/t39.30808-1/294797265_5394954763893902_4371724445809594489_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=17&_nc_sid=dbb9e7&_nc_ohc=fxRua6IqmgYAX9_dZAm&_nc_ht=scontent.fcgh24-1.fna&oh=00_AfAuRpyKpRy0wYIYryaVkNzYTSaPL1oQrgay_5kxpkG9A&oe=64468276" target="_blank](https://pps.whatsapp.net/v/t61.24694-24/291860784_1183670199088562_6653321249009832747_n.jpg?)](https://pps.whatsapp.net/v/t61.24694-24/291860784_1183670199088562_6653321249009832747_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTn7QJ52BSf4Rv5YzVRXHEYS9dbsX74wUcqLfowdh5Ygg&oe=64B29633)"
       />
@@ -44,8 +44,8 @@
   <img align="center" alt="Django" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Azure" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="AWS" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Azure" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div><br>
 <div align="center">
   <h2 align="center">Redes Sociais</h2>
