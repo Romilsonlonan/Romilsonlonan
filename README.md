@@ -1,5 +1,3 @@
-![Likendin](https://media.licdn.com/dms/image/D4D16AQEFZAtWRmpKCA/profile-displaybackgroundimage-shrink_350_1400/0/1684670452924?e=1694649600&v=beta&t=Fk-S90ZDROoxWdwSsA_6m9_slXr3fuxPFVexwYqB4qA)
-
 <p align="center">
   <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-passaros-voando-3.gif" alt="Pássaro Voando">
 </p>
