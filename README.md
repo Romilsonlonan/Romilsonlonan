@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-passaros-voando-3.gif" alt="Pássaro Voando">
+  <img src="https://www.imagensanimadas.com/data/media/238/aguia-imagem-animada-0100.gif" alt="Aguia Vigilante">
 </p>
 
 <div align="center">
